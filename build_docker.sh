@@ -1,1 +1,1 @@
-docker build -t marctv/minecraft-papermc-server .
+docker build -t arownic/minecraft-arclight-server .
